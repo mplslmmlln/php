@@ -1,9 +1,21 @@
 .calc-row {
-    height: 100vh;
+    height: 90vh;
     font-family: 'Share Tech Mono', monospace;
 }
 
 .input-window {
     text-align: end;
     font-size: x-large;
+}
+
+body {
+	background-color: gray;
+}
+
+.col {
+	background-color: gold;
+}
+
+.card {
+	background-color: black;
 }
